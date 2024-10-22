@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover_pic": "https://i.ibb.co.com/42T66d1/pexels-cottonbro-studio-8879108.jpg",
+      "title": "Understanding JavaScript Closures",
+      "author_img": "https://i.ibb.co.com/qx0Hm8Y/writer-1421099-1280.jpg",
+      "author": "katherine Langford",
+      "reading_time": "5 min read",
+      "posted_date": "2024-10-01",
+      "hashtags": ["javascript", "closures", "webdev"]
+    },
+    {
+      "id": 2,
+      "cover_pic": "https://i.ibb.co.com/rF8wq0F/pexels-tirachard-kumtanom-450055.jpg",
+      "title": "A Guide to Responsive Web Design",
+      "author_img": "https://i.ibb.co.com/ZhmkQcq/musician-7300353-640.jpg",
+      "author": "Jane Smith",
+      "reading_time": "8 min read",
+      "posted_date": "2024-10-10",
+      "hashtags": ["css", "responsive", "frontend"]
+    },
+    {
+      "id": 3,
+      "cover_pic": "https://i.ibb.co.com/0ZDXmvg/pexels-garrett-morrow-1337247.jpg",
+      "title": "Mastering Tailwind CSS for Beginners",
+      "author_img": "https://i.ibb.co.com/DMprPDm/portrait-3157821-640.jpg",
+      "author": "Alice Johnson",
+      "reading_time": "7 min read",
+      "posted_date": "2024-10-15",
+      "hashtags": ["tailwind", "css", "beginners"]
+    },
+    {
+      "id": 4,
+      "cover_pic": "https://i.ibb.co.com/42nHSNH/pexels-4151043.jpg",
+      "title": "Building a Dynamic Blog with JavaScript",
+      "author_img": "https://i.ibb.co.com/xjFL8Wx/face-1869641-640.jpg",
+      "author": "Michael Brown",
+      "reading_time": "6 min read",
+      "posted_date": "2024-10-20",
+      "hashtags": ["javascript", "blog", "webdev"]
+    }
+  ]
