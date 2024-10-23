@@ -5,7 +5,7 @@
       "title": "Understanding JavaScript Closures",
       "author_img": "https://i.ibb.co.com/qx0Hm8Y/writer-1421099-1280.jpg",
       "author": "katherine Langford",
-      "reading_time": "5 min read",
+      "reading_time": "5",
       "posted_date": "2024-10-01",
       "hashtags": ["javascript", "closures", "webdev"]
     },
@@ -15,7 +15,7 @@
       "title": "A Guide to Responsive Web Design",
       "author_img": "https://i.ibb.co.com/ZhmkQcq/musician-7300353-640.jpg",
       "author": "Jane Smith",
-      "reading_time": "8 min read",
+      "reading_time": "8",
       "posted_date": "2024-10-10",
       "hashtags": ["css", "responsive", "frontend"]
     },
@@ -25,7 +25,7 @@
       "title": "Mastering Tailwind CSS for Beginners",
       "author_img": "https://i.ibb.co.com/DMprPDm/portrait-3157821-640.jpg",
       "author": "Alice Johnson",
-      "reading_time": "7 min read",
+      "reading_time": "7",
       "posted_date": "2024-10-15",
       "hashtags": ["tailwind", "css", "beginners"]
     },
@@ -35,7 +35,7 @@
       "title": "Building a Dynamic Blog with JavaScript",
       "author_img": "https://i.ibb.co.com/xjFL8Wx/face-1869641-640.jpg",
       "author": "Michael Brown",
-      "reading_time": "6 min read",
+      "reading_time": "6",
       "posted_date": "2024-10-20",
       "hashtags": ["javascript", "blog", "webdev"]
     }
